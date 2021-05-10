@@ -1,10 +1,6 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Daniel Stoll</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
-- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
-
-- ▶️ I regulary post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
 - 📫 How to reach me **maykbrito@gmail.com**
